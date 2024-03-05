@@ -2,4 +2,4 @@ It is a small project developed for educational purposes, related to the Drum Ki
 
 Tutorial Website: https://javascript30.com
 
-Live demo link: 
+Live demo link: https://daysjavascript01javascriptd-zzpvx.kinsta.page
